@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://sketchize.com/">
-    <img src="http://sketchize.com/files/sketchize-github-cover.jpg">
+    <img src="http://sketchize.com/files/sketchize-github-cover.png">
   </a>
 </p>
 
