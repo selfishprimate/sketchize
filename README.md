@@ -6,6 +6,8 @@
   </a>
 </p>
 
+Please, visit out site at http://sketchize.com
+
 Sketchize is a free wireframing kit that contains a sets of printable device sketch sheets.It is built for UI/UX Designers to help them design lovely apps for mobile, tablet and desktop devices. 
 
 It's a very useful for product managers, developers and even for the stakeholders as well as for the designers. So, don't be afraid to use it if you're not a designer.
@@ -25,5 +27,5 @@ The sketch sheets are all free to download and relevant for the standard A3/A4 p
 - Sketchize's code is licensed under the MIT License: https://opensource.org/licenses/mit-license.html
 - The Sketchize documentation is licensed under the CC BY 3.0 License: http://creativecommons.org/licenses/by/3.0/
 
-> We believe your ideas are worth sketching.
+We believe your ideas are worth sketching.
 
