@@ -27,4 +27,5 @@ The sketch sheets are all free to download and relevant for the standard A3/A4 p
 - Sketchize's code is licensed under the MIT License: https://opensource.org/licenses/mit-license.html
 - The Sketchize documentation is licensed under the CC BY 3.0 License: http://creativecommons.org/licenses/by/3.0/
 
-We believe your ideas are worth sketching.
+
+<p align="left">We believe your ideas are worth sketching. Sketchize © 2018</p>
