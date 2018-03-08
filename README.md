@@ -40,7 +40,7 @@ If you like the project please give us a star and follow us on social media: [Fa
 
 <p align="center">
   <a href="http://sketchize.com/" target="_blank">
-    <img src="http://sketchize.com/files/github-footer.png">
+    <img src="http://sketchize.com/files/github-footer-border.png">
   </a>
 </p>
 
