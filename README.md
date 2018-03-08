@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://sketchize.com/">
-    <img src="http://sketchize.com/files/sketchize-github-cover.png">
+    <img src="http://sketchize.com/files/section-01.png">
   </a>
 </p>
 
@@ -22,6 +22,12 @@ It is also a very useful tool for product managers, developers and even for the 
 All the sketch sheets are relevant for the standard A3/A4 paper sizes. Just choose any of the sketch sheets that fits your project, print it out and start to sketch your design ideas. 
 
 Sketchize is free to use.
+
+<p align="center">
+  <a href="http://sketchize.com/">
+    <img src="http://sketchize.com/files/section-02.png">
+  </a>
+</p>
 
 ## License
 
