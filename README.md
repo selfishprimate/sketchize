@@ -31,7 +31,7 @@ Sketchize is free to use.
 
 ## Contact
 
-If you like the project please give us a star and follow us on social media: [Facebook](https://www.facebook.com/sketchizedesign/){:target="_blank"}, [Twitter](https://twitter.com/sketchizedesign){:target="_blank"}, [Instagram](https://www.instagram.com/sketchize/){:target="_blank"}
+If you like the project please give us a star and follow us on social media: [Facebook](https://www.facebook.com/sketchizedesign/), [Twitter](https://twitter.com/sketchizedesign), [Instagram](https://www.instagram.com/sketchize/)
 
 <p align="left">For more information please, visit our site at http://sketchize.com</p>
 
