@@ -25,9 +25,9 @@ Sketchize is free to use.
 
 ## License
 
-- The Sketchize wireframing sheets are licensed under the SIL OFL 1.1: http://scripts.sil.org/OFL
-- Sketchize's code is licensed under the MIT License: https://opensource.org/licenses/mit-license.html
-- The Sketchize documentation is licensed under the CC BY 3.0 License: http://creativecommons.org/licenses/by/3.0/
+- The Sketchize wireframing sheets are licensed under the [SIL OFL 1.1](http://scripts.sil.org/OFL/)
+- Sketchize's code is licensed under the [MIT License](https://opensource.org/licenses/mit-license.html/)
+- The Sketchize documentation is licensed under the [CC BY 3.0 License](http://creativecommons.org/licenses/by/3.0/)
 
 ## Contact
 
