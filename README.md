@@ -29,8 +29,10 @@ Sketchize is free to use.
 - Sketchize's code is licensed under the MIT License: https://opensource.org/licenses/mit-license.html
 - The Sketchize documentation is licensed under the CC BY 3.0 License: http://creativecommons.org/licenses/by/3.0/
 
-For more information please, visit our site at http://sketchize.com
+## Contact Us
 
 If you like the project please give us a GitHub star and follow us on Social Media: [Facebook](https://www.facebook.com/sketchizedesign/), [Twitter](https://twitter.com/sketchizedesign), [Instagram](https://www.instagram.com/sketchize/)
+
+For more information please, visit our site at http://sketchize.com
 
 <p align="left">We believe your ideas are worth sketching. Sketchize © 2018</p>
