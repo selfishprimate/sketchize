@@ -1,10 +1,10 @@
-# Sketchize
-
 <p align="center">
   <a href="http://sketchize.com/">
     <img src="http://sketchize.com/files/sketchize-github-cover.png">
   </a>
 </p>
+
+# Sketchize
 
 Sketchize is a free wireframing kit that contains a sets of printable device sketch sheets. It is built for UI/UX Designers to help them design lovely apps for mobile, tablet and desktop devices. 
 
