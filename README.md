@@ -15,7 +15,7 @@ It is also a very useful tool for product managers, developers and even for the 
 1. You can create wireframes for your mobile, tablet or desktop projects.
 2. You can make rapid drawings and take faster notes during time of project meetings.
 3. You can use Sketchize to ideate your ideas for your UX projects.
-4. You can sketch out anything you like by using the sketchpad sheets with and without grid versions.
+4. You can sketch out anything you like by using the sketchpads with and without dotted grid versions.
 
 ## How can you use the sketch sheets?
 
@@ -31,8 +31,11 @@ Sketchize is free to use.
 
 ## Contact Us
 
-If you like the project please give us a GitHub star and follow us on Social Media: [Facebook](https://www.facebook.com/sketchizedesign/), [Twitter](https://twitter.com/sketchizedesign), [Instagram](https://www.instagram.com/sketchize/)
+If you like the project please give us a star and follow us on social media: [Facebook](https://www.facebook.com/sketchizedesign/), [Twitter](https://twitter.com/sketchizedesign), [Instagram](https://www.instagram.com/sketchize/)
 
-For more information please, visit our site at http://sketchize.com
+<p align="left">For more information please, visit our site at http://sketchize.com</p>
 
-<p align="left">We believe your ideas are worth sketching. Sketchize © 2018</p>
+<br />
+<br />
+
+<p align="center">We believe your ideas are worth sketching. Sketchize © 2018</p>
