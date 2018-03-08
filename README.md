@@ -14,7 +14,7 @@ It is also a very useful tool for product managers, developers and even for the 
 
 1. You can create wireframes for your mobile, tablet or desktop projects.
 2. You can make rapid drawings and take faster notes during time of project meetings.
-3. You can use Sketchize to ideate your ideas for UX projects
+3. You can use Sketchize to ideate your ideas for your UX projects.
 4. You can sketch out anything you like by using the sketchpad sheets with and without grid versions.
 
 ## How can you use the sketch sheets?
