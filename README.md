@@ -23,12 +23,6 @@ All the sketch sheets are relevant for the standard A3/A4 paper sizes. Just choo
 
 Sketchize is free to use.
 
-<p align="center">
-  <a href="http://sketchize.com/">
-    <img src="http://sketchize.com/files/section-02.png">
-  </a>
-</p>
-
 ## License
 
 - The Sketchize wireframing sheets are licensed under the SIL OFL 1.1: http://scripts.sil.org/OFL
@@ -43,5 +37,11 @@ If you like the project please give us a star and follow us on social media: [Fa
 
 <br />
 <br />
+
+<p align="center">
+  <a href="http://sketchize.com/">
+    <img src="http://sketchize.com/files/logo-footer.png" width="200">
+  </a>
+</p>
 
 <p align="center">We believe your ideas are worth sketching. Sketchize © 2018</p>
