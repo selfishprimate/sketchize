@@ -12,10 +12,10 @@ It is also a very useful tool for product managers, developers and even for the 
 
 ## What can you achieve with Sketchize?
 
-1. You can create wireframes for your mobile, tablet or desktop projects.
-2. You can make rapid drawings and take faster notes during time of project meetings.
-3. You can use Sketchize to ideate your ideas for your UX projects.
-4. You can sketch out anything you like by using the sketchpads with and without dotted grid versions.
+- You can create wireframes for your mobile, tablet or desktop projects.
+- You can make rapid drawings and take faster notes during time of project meetings.
+- You can use Sketchize to ideate your ideas for your UX projects.
+- You can sketch out anything you like by using the sketchpads with and without dotted grid versions.
 
 ## How can you use the sketch sheets?
 
