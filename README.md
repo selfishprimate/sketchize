@@ -23,6 +23,12 @@ All the sketch sheets are relevant for the standard A3/A4 paper sizes. Just choo
 
 Sketchize is free to use.
 
+<p align="center">
+  <a href="http://sketchize.com/" target="_blank">
+    <img src="http://sketchize.com/files/iphone6-content.png">
+  </a>
+</p>
+
 ## License
 
 - The Sketchize wireframing sheets are licensed under the [SIL OFL 1.1](http://scripts.sil.org/OFL/)
