@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://sketchize.com/" target="_blank">
-    <img src="http://sketchize.com/files/section-01.png">
+    <img src="http://sketchize.com/files/sketchize-github-cover.png">
   </a>
 </p>
 
@@ -46,7 +46,7 @@ If you like the project please give us a star and follow us on social media: [Fa
 
 <p align="center">
   <a href="http://sketchize.com/" target="_blank">
-    <img src="http://sketchize.com/files/github-footer-border.png">
+    <img src="http://sketchize.com/files/github-footer.png">
   </a>
 </p>
 
