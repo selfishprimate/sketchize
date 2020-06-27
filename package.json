@@ -1,0 +1,28 @@
+{
+  "name": "sketchize",
+  "title": "Sketchize",
+  "description": "Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet and desktop devices. Just choose any of the sketch sheets that fit your project, print it out and start to sketch your dream!",
+  "homepage": "https://sketchize.com",
+  "author": "Halil İbrahim Çakıroğlu",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selfishprimate/sketchize"
+  },
+  "bugs": {
+    "url": "https://github.com/selfihsprimate/sketchize/issues"
+  },
+  "keywords": [
+    "Sketchize",
+    "UX Design",
+    "UX",
+    "Sketch Sheets",
+    "Wireframes",
+    "UX Tool",
+    "Wireframing Tool",
+    "UI Design",
+    "UI/UX Design",
+    "Wireframing Tool"
+  ]
+}
